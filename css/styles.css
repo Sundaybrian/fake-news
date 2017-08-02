@@ -1,0 +1,13 @@
+.intro {
+  color: red;
+}
+
+p.intro {
+  font-size: 18px;
+  font-family: sans-serif;
+  color: orange;
+}
+
+html {
+  background-color: purple;
+}
